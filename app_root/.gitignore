@@ -1,0 +1,36 @@
+# Ignore Django migrations
+**/migrations/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore SQLite database files
+*.sqlite3
+
+# Ignore log files
+*.log
+
+# Ignore environment settings files
+.env
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore environment files
+*.env
+
+# Ignore media directory
+media/
+
+# Ignore PyCharm settings
+/.idea/
+*.iml
+.idea/workspace.xml
+.idea/misc.xml
+.idea/modules.xml
+
+# JavaScript
+/node_modules/
+/.npm/
+/.yarn/
+
