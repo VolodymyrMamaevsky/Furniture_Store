@@ -12,6 +12,9 @@ class Categories(models.Model):
         verbose_name = "Category"
         verbose_name_plural = "Categories"
 
+    def __str__(self):
+        return self.name
+
 
 class Products(models.Model):
     name = models.CharField(max_length=150, unique=True, verbose_name="Name")
@@ -26,7 +29,7 @@ class Products(models.Model):
         default=0.00, max_digits=7, decimal_places=2, verbose_name="Price"
     )
     discount = models.DecimalField(
-        default=0.00, max_digits=7, decimal_places=2, verbose_name="Discount in %"
+        default=0.00, max_digits=4, decimal_places=2, verbose_name="Discount in %"
     )
     quantity = models.PositiveIntegerField(default=0, verbose_name="Quantity")
     category = models.ForeignKey(
@@ -37,3 +40,6 @@ class Products(models.Model):
         db_table = "product"
         verbose_name = "Product"
         verbose_name_plural = "Products"
+
+    def __str__(self):
+        return f"{self.name} Quantity - {self.quantity}"

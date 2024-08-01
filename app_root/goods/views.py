@@ -73,7 +73,7 @@ def catalog(request):
             },
             {
                 "image": "deps/images/goods/strange table.jpg",
-                "name": "Bedside table",
+                "name": "Bedside table oak",
                 "description": "A table that looks quite strange but is suitable for placing next to the bed.",
                 "price": 5.00,
             },
