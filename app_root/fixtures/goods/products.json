@@ -6,11 +6,11 @@
       "name": "Tea table and three chairs",
       "slug": "tea-table-and-three-chairs",
       "description": "A set of three chairs and a designer table for the living room.",
-      "image": "",
-      "price": "30.00",
-      "discount": "0.00",
+      "image": "goods_images/set_of_tea_table_and_three_chairs.jpg",
+      "price": "70.00",
+      "discount": "5.00",
       "quantity": 23,
-      "category": 3
+      "category": 2
     }
   },
   {
@@ -20,11 +20,11 @@
       "name": "Tea table and two chairs",
       "slug": "tea-table-and-two-chairs",
       "description": "A minimalist-style set of a table and two chairs.",
-      "image": "",
-      "price": "18.60",
-      "discount": "0.00",
-      "quantity": 7,
-      "category": 3
+      "image": "goods_images/set_of_tea_table_and_two_chairs.jpg",
+      "price": "55.00",
+      "discount": "7.00",
+      "quantity": 8,
+      "category": 2
     }
   },
   {
@@ -34,11 +34,11 @@
       "name": "Double bed",
       "slug": "double-bed",
       "description": "A double bed with a headboard and very orthopedic features.",
-      "image": "",
-      "price": "134.00",
-      "discount": "0.00",
-      "quantity": 12,
-      "category": 4
+      "image": "goods_images/double_bed.jpg",
+      "price": "180.00",
+      "discount": "17.00",
+      "quantity": 10,
+      "category": 3
     }
   },
   {
@@ -48,11 +48,11 @@
       "name": "Kitchen table with sink",
       "slug": "kitchen-table-with-sink",
       "description": "A kitchen table with an integrated sink and chairs for dining.",
-      "image": "",
-      "price": "73.00",
-      "discount": "0.00",
-      "quantity": 3,
-      "category": 3
+      "image": "goods_images/kitchen_table.jpg",
+      "price": "85.00",
+      "discount": "12.00",
+      "quantity": 25,
+      "category": 2
     }
   },
   {
@@ -62,11 +62,11 @@
       "name": "Kitchen table with built-in appliances",
       "slug": "kitchen-table-with-built-in-appliances",
       "description": "A kitchen table with a built-in stove and sink. Many shelves and overall beautiful.",
-      "image": "",
-      "price": "86.00",
-      "discount": "0.00",
-      "quantity": 8,
-      "category": 3
+      "image": "goods_images/kitchen_table_2.jpg",
+      "price": "70.00",
+      "discount": "2.00",
+      "quantity": 23,
+      "category": 2
     }
   },
   {
@@ -76,11 +76,11 @@
       "name": "Corner sofa for living room",
       "slug": "corner-sofa-for-living-room",
       "description": "A corner sofa that converts into a double bed, perfect for the living room and hosting guests!",
-      "image": "",
-      "price": "122.00",
-      "discount": "0.00",
-      "quantity": 10,
-      "category": 5
+      "image": "goods_images/corner_sofa.jpg",
+      "price": "110.00",
+      "discount": "20.00",
+      "quantity": 15,
+      "category": 4
     }
   },
   {
@@ -90,11 +90,11 @@
       "name": "Bedside table",
       "slug": "bedside-table",
       "description": "Bedside table with two drawers (flower not included).",
-      "image": "",
-      "price": "11.00",
+      "image": "goods_images/bedside_table.jpg",
+      "price": "40.00",
       "discount": "0.00",
-      "quantity": 17,
-      "category": 4
+      "quantity": 50,
+      "category": 3
     }
   },
   {
@@ -104,11 +104,11 @@
       "name": "Regular sofa",
       "slug": "regular-sofa",
       "description": "A regular sofa, nothing noteworthy for description.",
-      "image": "",
-      "price": "38.00",
-      "discount": "0.00",
-      "quantity": 15,
-      "category": 4
+      "image": "goods_images/sofa.jpg",
+      "price": "150.00",
+      "discount": "7.00",
+      "quantity": 8,
+      "category": 3
     }
   },
   {
@@ -118,11 +118,11 @@
       "name": "Office chair",
       "slug": "office-chair",
       "description": "A product description about how great it is, but it's just a chair, what more can be said...",
-      "image": "",
-      "price": "6.00",
-      "discount": "0.00",
-      "quantity": 8,
-      "category": 6
+      "image": "goods_images/office_chair.jpg",
+      "price": "25.00",
+      "discount": "4.00",
+      "quantity": 55,
+      "category": 5
     }
   },
   {
@@ -132,11 +132,11 @@
       "name": "Plant",
       "slug": "plant",
       "description": "A plant to decorate your interior, bringing freshness and tranquility.",
-      "image": "",
+      "image": "goods_images/plants.jpg",
       "price": "2.00",
       "discount": "0.00",
-      "quantity": 35,
-      "category": 8
+      "quantity": 80,
+      "category": 7
     }
   },
   {
@@ -146,11 +146,11 @@
       "name": "Stylized flower",
       "slug": "stylized-flower",
       "description": "A designer flower (possibly artificial) for interior decoration.",
-      "image": "",
-      "price": "3.00",
+      "image": "goods_images/flower.jpg",
+      "price": "5.00",
       "discount": "0.00",
-      "quantity": 17,
-      "category": 8
+      "quantity": 70,
+      "category": 7
     }
   },
   {
@@ -160,11 +160,11 @@
       "name": "Bedside table oak",
       "slug": "bedside-table-oak",
       "description": "A table that looks quite strange but is suitable for placing next to the bed.",
-      "image": "",
-      "price": "5.00",
-      "discount": "0.00",
-      "quantity": 10,
-      "category": 4
+      "image": "goods_images/bedside_table_ne7qud6.jpg",
+      "price": "10.00",
+      "discount": "2.00",
+      "quantity": 45,
+      "category": 3
     }
   }
 ]
