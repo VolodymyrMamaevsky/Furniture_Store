@@ -82,7 +82,7 @@
                         <a class="nav-link text-white" href="carts/cart.html">Cart</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link text-white" href="users/login.html"
+                        <a class="nav-link text-white" href="{% url "user:login" %}"
                         >Log In</a>
                     </li>
                     <li class="nav-item dropdown">
@@ -103,12 +103,12 @@
                             <li>
                                 <a
                                         class="dropdown-item text-white"
-                                        href="users/profile.html"
+                                        href="{% url "user:profile" %}"
                                 >My Account</a
                                 >
                             </li>
                             <li>
-                                <a class="dropdown-item text-white" href="{% url 'admin:index' %}"
+                                <a class="dropdown-item text-white" href="{% url "admin:index" %}"
                                 >Admin Interface</a
                                 >
                             </li>
@@ -116,7 +116,7 @@
                                 <hr class="dropdown-divider"/>
                             </li>
                             <li>
-                                <a class="dropdown-item text-white" href="#">Log Out</a>
+                                <a class="dropdown-item text-white" href="{% url "user:logout" %}">Log Out</a>
                             </li>
                         </ul>
                     </li>
