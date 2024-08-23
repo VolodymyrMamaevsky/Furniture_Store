@@ -4,4 +4,3 @@
 
 #### Technologies: Django, Postgresql, Django ORM, Django Templates.
 
-#### Project link: 
